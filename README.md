@@ -1,0 +1,1 @@
+This is my own personal webpage that I have coded myself. Thanks you Neocities(.org) for free hosting, w3schools(.com) for free, easy to understand CSS and HTML coding documentation, and... uhhh... I guess myself for pushing myself to learn it??? 
